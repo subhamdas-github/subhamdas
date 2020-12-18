@@ -2,9 +2,12 @@
 
 
 
-<img src="images/IMG_20201218_191808%20(3).jpeg" align="left" alt="subham das" width=270 /> ``` I am a developer with one year of experience in Kolkata. 
+<img src="images/IMG_20201218_191808%20(3).jpeg" align="left" alt="subham das" width=270 />
+```
+ I am a developer with one year of experience in Kolkata. 
 I specializes with industrial automation, Computer Vision, 
-Robotics (Robot Operating System, Embedded System). ```
+Robotics (Robot Operating System, Embedded System).
+```
  <br clear="left"/>
 <h1 align="left">Subham Das</h1>
 
@@ -26,5 +29,3 @@ Robotics (Robot Operating System, Embedded System). ```
 
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
