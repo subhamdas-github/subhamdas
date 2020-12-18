@@ -3,11 +3,11 @@
 
 
 <img src="images/IMG_20201218_191808%20(3).jpeg" align="left" alt="subham das" width=270 />
-```
- I am a developer with one year of experience in Kolkata. 
+
+I am a developer with one year of experience in Kolkata. 
 I specializes with industrial automation, Computer Vision, 
 Robotics (Robot Operating System, Embedded System).
-```
+
  <br clear="left"/>
 <h1 align="left">Subham Das</h1>
 
