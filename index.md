@@ -1,37 +1,33 @@
 ## Welcome to my Github Page
 
 
-You can use the [editor on GitHub](https://github.com/dsubham76/subhamdas.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<img src="images/IMG_20201218_191808%20(3).jpeg" alt="subham das" width=250 /> 
+</p>
+<h1 align="center">Subham Das</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+I am a developer with one year of experience in Kolkata. I specializes with industrial automation, Computer Vision, 
+Robotics (Robot Operating System, Embedded System). 
 
-# Header 1
-## Header 2
-### Header 3
+# PROFESSIONAL SKILLS
 
-- Bulleted
-- List
+1. C
+2. C++
+3. Embedded C
+4. Robotics
+5. Iot
+6. Core Java
+7. Python
+8. Machine Learning
+9. OpenCv
+10. Javascript
+11. Google App Script
+12. C#
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsubham76/subhamdas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
