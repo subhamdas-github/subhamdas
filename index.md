@@ -3,7 +3,7 @@
 
 <p align="left">
 <img src="images/IMG_20201218_191808%20(3).jpeg" alt="subham das" width=250 /> 
-
+</p>
 <h1 align="left">Subham Das</h1>
 
 
@@ -11,7 +11,7 @@
 I am a developer with one year of experience in Kolkata. I specializes with industrial automation, Computer Vision, 
 Robotics (Robot Operating System, Embedded System). 
 ```
-</p>
+
 <h1>PROFESSIONAL SKILLS</h1>
 
 1. C
