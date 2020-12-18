@@ -18,14 +18,17 @@ Robotics (Robot Operating System, Embedded System).
 2. C++
 3. Embedded C
 4. Robotics
-5. Iot
+5. Iot (mqtt protocol)
 6. Core Java
-7. Python
-8. Machine Learning
-9. OpenCv
-10. Javascript
-11. Google App Script
-12. C#
+7. Advanced Java
+8. Python
+9. Machine Learning
+10. OpenCv
+11. Javascript
+12. Google App Script
+13. Shell script
+14. C#
+15. Linux
 
 
 ### Support or Contact
