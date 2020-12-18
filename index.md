@@ -3,32 +3,36 @@
 
 
 <img src="images/IMG_20201218_191808%20(3).jpeg" align="left" alt="subham das" width=270 />
-
+```
 I am a developer with one year of experience in Kolkata. 
 I specializes with industrial automation, Computer Vision, 
 Robotics (Robot Operating System, Embedded System).
-
+```
  <br clear="left"/>
 <h1 align="left">Subham Das</h1>
 
 
-<h1>PROFESSIONAL SKILLS</h1>
+<h1><u>PROFESSIONAL SKILLS</u></h1>
 
 1. C
 2. C++
 3. Embedded C
-4. Robotics
-5. Iot (mqtt protocol)
-6. Core Java
-7. Advanced Java
-8. Python
-9. Machine Learning
-10. OpenCv
-11. Javascript
-12. Google App Script
-13. Shell script
-14. C#
-15. Linux
-
+4. Arduino
+5. Robotics
+6. Iot (mqtt protocol)
+7. Core Java
+8. Advanced Java
+9. Python
+10. Machine Learning
+11. OpenCv
+12. Javascript
+13. Google App Script
+14. Shell script
+15. C#
+16. Linux
+17. .Net
+18. Html
+19. Css
+20. Nodejs
 
 ### Support or Contact
