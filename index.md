@@ -7,10 +7,10 @@
 I am a developer with one year of experience in Kolkata. 
 I specializes with industrial automation, Computer Vision, 
 Robotics (Robot Operating System, Embedded System).
+Hire me !
 ```
  <br clear="left"/>
 <h1 align="left">Subham Das</h1>
-
 
 <h1><u>PROFESSIONAL SKILLS</u></h1>
 
