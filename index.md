@@ -2,8 +2,12 @@
 
 <img src="images/images.png" align="left" width=20/> 
 6291142787
+<br clear="left"/>
 <img src="images/gmail-logo.png" align="left" width=20/> 
 dsubham776@gmail.com
+<br clear="left"/>
+<img src="images/GitHub-Mark.png" align="left" width=20/> 
+github.com/dsubham76
 <br clear="left"/>
 <img src="images/IMG_20201218_191808%20(3).jpeg" align="left" alt="subham das" width=270 />
 ```
